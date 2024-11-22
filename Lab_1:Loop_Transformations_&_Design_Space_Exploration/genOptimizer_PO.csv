@@ -1,0 +1,5 @@
+L1I_cache_size,L1D_cache_size,L2_cache_size,unrolling_factor,exec_time_cc,total_mem_kB
+4kB,4kB,128kB,16,59477547,136
+16kB,32kB,128kB,32,41924727,176
+4kB,32kB,128kB,8,42226391,164
+2kB,4kB,128kB,4,59780093,134
