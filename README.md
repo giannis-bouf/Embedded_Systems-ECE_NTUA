@@ -45,6 +45,3 @@ Using C/C++ to generate RTL (Register-Transfer Level) hardware descriptions. Foc
 * **C / C++ / Assembly:** Primary development languages.
 * **Embedded Linux:** Target operating system for deployment.
 
-
----
-*Disclaimer: This repository is intended for educational purposes and contains solutions for the ECE NTUA laboratory exercises.*
